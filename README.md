@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Real Estate Professional and Entreprenuer wh
 - 🤝 Developing the skillset to become an open source enthusiast and contributor
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python3
+- **Languages**: HTML, CSS, Python3
 - **Backend**: Flask
 - **Databases**: MySQL
 - **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions, OpenShift
