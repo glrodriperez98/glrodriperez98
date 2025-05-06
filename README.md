@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm a Real Estate Professional and Entreprenuer wh
 - 🤝 Developing the skillset to become an open source enthusiast and contributor
 
 ## 🛠️ Technologies & Tools
-- **Languages**: HTML, CSS, Python3
+- **Languages**: HTML, CSS, Python3, Jacascript
 - **Backend**: Flask
+- **Frameworks**: React
 - **Databases**: MySQL
 - **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions, OpenShift
 
@@ -20,12 +21,6 @@ Welcome to my GitHub profile! I'm a Real Estate Professional and Entreprenuer wh
 - **Email**: gabrielrperez47@gmail.com
 - **LinkedIn**: [Gabriel Rodriguez Perez](https://www.linkedin.com/in/glrodriperez98/)
 - **Twitter**: [@glrodriperez98](https://twitter.com/glrodriperez98)
-
-## 🌟 Projects
-Here are some of the projects I'm proud of:
-
-- [Tic Tac Toe - CMD Line](https://github.com/glrodriperez98/tic-tac-toe-cmd-line): My Python BootCamp MileStone 1 project one where I created a CMD line Tic Tac Toe game. I took the single page script and broke it up into a proper application structure and will continue to develop it as I learn. 
-- [BlackJack - CMD Line](https://github.com/glrodriperez98/blackjack_cmd_line): My Python BootCamp MileStone 2 project one where I created a CMD line BlackJack game. I took the single page script and broke it up into a proper application structure and will continue to develop it as I learn. 
 
 Feel free to explore my repositories as I continue to progress through my journey and reach out if you have any questions or collaboration ideas!
 
